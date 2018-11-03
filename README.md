@@ -1,2 +1,2 @@
-# treinando ruby
+# aprendendo ruby
 Engenheiro
